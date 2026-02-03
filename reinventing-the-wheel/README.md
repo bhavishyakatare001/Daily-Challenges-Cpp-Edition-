@@ -18,4 +18,4 @@ Here, I deliberately strip away the "magic" of standard libraries (STL) to build
 
 | Project Name | Concept Explored | Logic Used | Status |
 | :--- | :--- | :--- | :--- |
-| **[cpp-manual-set](./cpp-manual-set)** | **The Set**: Uniqueness, Encapsulation | Linear Search (Loop) | ✅ Completed |
+| **[Cpp-manual-set](./cpp-manual-set)** | **The Set**: Uniqueness, Encapsulation | Linear Search (Loop) | ✅ Completed |
